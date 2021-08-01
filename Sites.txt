@@ -1,0 +1,8 @@
+
+https://www.w3.org/standards/
+https://validator.w3.org/
+https://caniuse.com/?search=srcset
+
+https://codepen.io/pen/tour/welcome/start
+
+https://css-tricks.com/
